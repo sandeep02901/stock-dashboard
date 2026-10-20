@@ -30,7 +30,7 @@ Python • Pandas • Plotly • Requests • Streamlit
 ## Run Locally
 
 ```bash
-git clone https://github.com/sandeepmeena/stock-dashboard.git
+git clone https://github.com/sandeep02901/stock-dashboard.git
 cd stock-dashboard
 pip install -r requirements.txt
 python -m streamlit run app.py
@@ -38,11 +38,9 @@ python -m streamlit run app.py
 
 ## Screenshots
 
-*!\[Dashboard](screenshots/dashboard.png)*
-
-*!\[Chart](screenshots/chart.png)*
-
-*!\[Compare](screenshots/compare.png)*
+![Dashboard](dashboard.png)
+![Chart](chart.png)
+![Compare](compare.png)
 
 ## Indicators Explained
 
@@ -63,5 +61,5 @@ For educational purposes only. Not financial advice.
 
 ## Author
 
-**Sandeep Meena** — [LinkedIn](https://linkedin.com/in/your-profile)
+**Sandeep Meena**
 
